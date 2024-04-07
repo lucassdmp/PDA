@@ -15,6 +15,7 @@ This Java project implements a Pushdown Automaton (PDA) for parsing expressions 
 3. Open the project in your preferred Java IDE.
 4. Compile and run the `App.java` file.
 5. You can uncomment `ExpressionParser.zeroesAndOnes();` in `App.java` to test parsing for zero-one sequences.
+<ins>Note: Use input.txt to write what you want to be parsed.</ins>
 
 ## 📦 Components
 
